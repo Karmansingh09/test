@@ -3,6 +3,7 @@ This project demonstrates how blockchain can ensure transparent, permanent, and 
 
 📜 Project Description  
 
+
 dailycheckin (MatchRecords) is a beginner-friendly smart contract that allows anyone to record and view match results transparently.  
 Every match is stored permanently on the blockchain, ensuring no tampering or data loss.  
 Perfect for recording results of eSports, sports tournaments, or any competitive event where trust and transparency matter.  
